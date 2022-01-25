@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahtisham Ul Haq</h1>
+![Hi 👋, I'm Ahtisham Ul Haq](https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg)
+<h1 align="center">Hi 👋, I'm Ahtisham Ul Haq</h1> 
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" />

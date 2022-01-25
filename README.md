@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahtisham Ul Haq</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-
+<p>I am a front-end developer, I'm a Competitive Programmer, I also like to create projects in Flask.</p>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahtisham774" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahtisham774" height="30" width="40" /></a>

@@ -1,4 +1,3 @@
-![Hi 👋, I'm Ahtisham Ul Haq](https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg)
 <h1 align="center">Hi 👋, I'm Ahtisham Ul Haq</h1> 
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <p align="center">
